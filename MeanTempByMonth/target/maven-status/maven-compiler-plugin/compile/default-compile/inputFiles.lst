@@ -1,0 +1,6 @@
+/home/cloudera/myworkspace/MeanTempByMonth/src/main/java/mapreduce/MaxTempByLocDateMapper.java
+/home/cloudera/myworkspace/MeanTempByMonth/src/main/java/mapreduce/MaxTempByLocDateDriver.java
+/home/cloudera/myworkspace/MeanTempByMonth/src/main/java/mapreduce/MeanTempByMonthMapper.java
+/home/cloudera/myworkspace/MeanTempByMonth/src/main/java/mapreduce/MeanTempByMonthDriver.java
+/home/cloudera/myworkspace/MeanTempByMonth/src/main/java/mapreduce/MeanTempByMonthReducer.java
+/home/cloudera/myworkspace/MeanTempByMonth/src/main/java/mapreduce/MaxTempByLocDateReducer.java

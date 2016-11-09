@@ -1,0 +1,3 @@
+/home/cloudera/myworkspace/MaxTempByDate/src/main/java/mapreduce/MaxTempByLocDateMapper.java
+/home/cloudera/myworkspace/MaxTempByDate/src/main/java/mapreduce/MaxTempByLocDateReducer.java
+/home/cloudera/myworkspace/MaxTempByDate/src/main/java/mapreduce/MaxTempByLocDateDriver.java
